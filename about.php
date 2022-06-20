@@ -11,7 +11,7 @@
           <!-- Logo -->
           <li class="navbarli" style = "padding-top: 0px; padding-bottom: 0px">
             <button style="width:150px; height: 60px; background-color: var(--main-nav-color);" onclick="PlaySound()"> 
-              <img src="images/Logo.webp" width="100" height="30" alt="Logo" />
+              <img src="images/logo/Logo.webp" width="100" height="30" alt="Logo" />
             </button>
           </li>
           <!--Tabs/Other Pages-->
@@ -26,7 +26,7 @@
 
   <main>
     <h2>ABOUT</h2>
-    <p>Why would you need to know about two random dudes making a site about strategy games? what pupose would this information hold? why did you even click this?</p>
+    <p>Why would you need to know about two random dudes making a site about music? what pupose would this information hold? why did you even click this?</p>
   </main>
 
 <?php include("bottombit.php") ?>

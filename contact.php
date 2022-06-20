@@ -10,7 +10,7 @@
           <!-- Logo -->
           <li class="navbarli" style = "padding-top: 0px; padding-bottom: 0px">
             <button style="width:150px; height: 60px; background-color: var(--main-nav-color);" onclick="PlaySound()"> 
-              <img src="images/Logo.webp" width="100" height="30" alt="Logo" />
+              <img src="images/logo/Logo.webp" width="100" height="30" alt="Logo" />
             </button>
           </li>
           <!--Tabs/Other Pages-->

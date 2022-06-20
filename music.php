@@ -1,4 +1,4 @@
-<!--─────────────────GAMES PAGE────────────────-->
+<!--─────────────────MUSIC PAGE────────────────-->
 
 <?php include("topbit.php") ?>
 
@@ -7,7 +7,7 @@
   </nav>
 
   <main>
-    <h2>GAMES DATABASE</h2>
+    <h2>MUSIC DATABASE</h2>
 
     <!--─────────────────
     

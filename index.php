@@ -10,7 +10,7 @@
           <!-- Logo -->
             <li class="navbarli" style = "padding-top: 0px; padding-bottom: 0px">
               <button style="width:150px; height: 60px; background-color: var(--main-nav-color);" onclick="PlaySound()"> 
-                <img src="images/Logo.webp" width="100" height="30" alt="Logo" />
+                <img src="images/logo/Logo.webp" width="100" height="30" alt="Logo" />
               </button>
             </li>
           <!--Tabs/Other Pages-->
@@ -22,29 +22,17 @@
       </div>
     </nav>
     
-      <h1>Strategy Games</h1>  
+      <h1>Music</h1>  
 
   </header> <!-- / banner -->
-
-  
 
   <main>
     <h2>Welcome</h2>
     
     <p>
-        This page is gonna be a big fat collection of strategy
+        This page is gonna be a big fat collection of music
     </p>
     
     <p>&nbsp;</p>
-    
-    <hr style= "border-top-color: var(--main-text-color);">
-    
-    <h3>Acknowledgements &amp; Sources</h3>
-    
-    <ul>
-      <li><a style= "color: var(--main-a-color);" href="https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games/version/1" target="_blank">original "17K Mobile Strategy Games" dataset</a></li>
-    </ul>
-
-  </main>
       
 <?php include("bottombit.php") ?>
